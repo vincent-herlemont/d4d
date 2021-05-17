@@ -20,7 +20,7 @@ open = "1.4.0"
 tempdir = "0.3.7"
 fs_extra = "1.2.0"
 walkdir = "2.3.1"
-serde = { version = "1.0.118", features = ["derive","rc"] }
+serde = { version = "1.0.126", features = ["derive","rc"] }
 serde_yaml ="0.8.14"
 serde_json = "1.0.61"
 regex = "1.4.3"
